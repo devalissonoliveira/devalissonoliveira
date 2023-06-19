@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil
 
-![Alisson Oliveira GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devalissonoliveira&show_icons=true&theme=gruvbox)
+![Alisson Oliveira GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devalissonoliveira&show_icons=true&theme=dark)
 
 
 <div style="display: inline_block"><br>
