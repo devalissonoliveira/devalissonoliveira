@@ -5,7 +5,7 @@
   ### Tecnologias que eu uso no meu dia
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,js,css,html" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,js,css,html" />
     </a>
   </p>
 <br>
